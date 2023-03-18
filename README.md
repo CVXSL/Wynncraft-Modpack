@@ -5,7 +5,7 @@ This is the official GitHub Repository the Minecraft: Java Edition modpack I mad
 
 | Pack Version | Release Date | Download |
 | --- | --- | --- |
-| **`1.0.0 (Current)`** | **`March 18, 2023`** | <!-- [**`Download`**]() --> *`Coming soom!`*|
+| **`1.0.0 (Current)`** | **`March 18, 2023`** | [**`Download`**](https://github.com/CVXSL/Wynncraft-Modpack/releases/download/1.0.0/Wynncraft.Modpack-1.0.0.zip) |
 
 <!--
 <details>
